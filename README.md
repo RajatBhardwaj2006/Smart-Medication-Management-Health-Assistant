@@ -1,4 +1,4 @@
- # 💊 Smart Medication System
+  # 💊 Smart Medication System
 
 A desktop application built in **Java Swing** that helps users manage medicines, track inventory, receive medicine reminders, monitor low stock, and check upcoming expiry dates.
 
