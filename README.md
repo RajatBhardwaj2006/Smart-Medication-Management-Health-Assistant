@@ -13,7 +13,7 @@ A desktop application built in **Java Swing** that helps users manage medicines,
 - Quantity
 - Expiry Date
 - Automatically stores data in text file
-
+  
 ---
 
 ### 📦 Inventory Management
